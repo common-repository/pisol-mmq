@@ -1,0 +1,16 @@
+<wpml-config>
+    <admin-texts>
+        <key name="pi_mmq_min_max_0"/>
+        <key name="pi_mmq_min_max_more_then_0_less_then_min"/>
+        <key name="pi_mmq_min_max_more_then_min_less_then_max"/>
+        <key name="pi_mmq_min_max_equal_to_max"/>
+        <key name="pi_mmq_max_0"/>
+        <key name="pi_mmq_max_more_then_0_less_then_max"/>
+        <key name="pi_mmq_max_equal_to_max"/>
+        <key name="pi_mmq_min_0"/>
+        <key name="pi_mmq_min_more_then_0_less_then_min"/>
+        <key name="pi_mmq_min_more_then_min_equal_to_min"/>
+        <key name="pi_mmq_min_amount_0"/>
+        <key name="pi_mmq_min_amount_more_then_min_equal_to_min"/>
+    </admin-texts>
+</wpml-config>

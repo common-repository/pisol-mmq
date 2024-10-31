@@ -1,0 +1,71 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+ .pisol-mmq-container{
+     padding:4px 10px;
+     margin-top:5px;
+     margin-bottom:5px;
+     background:#eecf43;
+     color:#fff;
+     font-size:14px;
+     display:block;
+ }
+
+ td.product-name  .pisol-mmq-container{
+    border-radius:4px;
+}
+
+ .pisol-mmq-container.error{
+     background:#f00;
+ }
+
+ /**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+ .pisol-mmq-bar-container{
+    position:fixed;
+    left:0px;
+    width:100%;
+    z-index:999999999999;
+    text-align:center;
+    padding:10px 0;
+    display: none;
+    padding-left:30px;
+    padding-right:30px;
+}
+
+.pisol-mmq-close{
+   position: absolute;
+   right: 0px;
+   top: 0px;
+   width: 30px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   height: 100%;
+}
+
+.pisol-mmq-close:hover{
+    text-decoration:none;
+}
+
+.pisol_shortcodes{
+    font-weight:light;
+}
+
+#pi-mmq-progress-circle{
+    width:70px;
+    height:70px;
+    position:fixed;
+    bottom:20px;
+    right:20px;
+    z-index:200000000;
+    background-position: center;
+    background-size:50px 50px;
+    background-repeat: no-repeat;
+    cursor:pointer;
+}

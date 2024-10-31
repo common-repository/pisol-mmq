@@ -1,0 +1,405 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Language: \n"
+"POT-Creation-Date: 2024-01-13 09:31+0000\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: admin/class-pisol-mmq-option.php:61
+msgid "After add to cart button"
+msgstr ""
+
+#: admin/class-pisol-mmq-option.php:57
+msgid "After price"
+msgstr ""
+
+#: admin/class-pisol-mmq-option.php:57
+msgid "After product title"
+msgstr ""
+
+#: admin/class-pisol-mmq-design.php:56
+msgid "Background color"
+msgstr ""
+
+#: admin/class-pisol-mmq-option.php:37
+msgid "Background color of message box"
+msgstr ""
+
+#: admin/class-pisol-mmq-design.php:54
+msgid "Background color of the notification bar"
+msgstr ""
+
+#: admin/class-pisol-mmq-design.php:56
+msgid "Background color of the popup"
+msgstr ""
+
+#: admin/class-pisol-mmq-design.php:52
+msgid "Bar position"
+msgstr ""
+
+#: admin/class-pisol-mmq-option.php:61
+msgid "Before add to cart button"
+msgstr ""
+
+#: admin/class-pisol-mmq-option.php:57
+msgid "Before product title"
+msgstr ""
+
+#: admin/class-pisol-mmq-design.php:65
+msgid "Bold"
+msgstr ""
+
+#: admin/class-pisol-mmq-design.php:52
+msgid "Bottom"
+msgstr ""
+
+#: pisol-mmq.php:113
+msgid "Buy PRO Version"
+msgstr ""
+
+#: admin/class-pisol-mmq-min-amount.php:33
+msgid "Count excluded product total in min amount restriction"
+msgstr ""
+
+#: admin/class-pisol-mmq-option.php:29
+msgid "Enable global maximum quantity per product"
+msgstr ""
+
+#: admin/class-pisol-mmq-option.php:25
+msgid "Enable global minimum quantity per product"
+msgstr ""
+
+#: admin/class-pisol-mmq-option.php:25 admin/class-pisol-mmq-option.php:29
+msgid "Enable this if you like to set a global level minimum quantity"
+msgstr ""
+
+#: admin/class-pisol-mmq-option.php:43
+msgid "Error background color of message box"
+msgstr ""
+
+#: admin/class-pisol-mmq-option.php:45
+msgid "Error text color of message box"
+msgstr ""
+
+#: admin/class-pisol-mmq-min-amount.php:31
+msgid "exclude from global min amount restriction"
+msgstr ""
+
+#: admin/class-pisol-mmq-min-amount.php:31
+msgid "Exclude this category product from global level min amount restriction"
+msgstr ""
+
+#: admin/class-pisol-mmq-min-amount.php:29
+msgid "Exclude this product from global level min amount restriction"
+msgstr ""
+
+#: admin/class-pisol-mmq-design.php:60
+msgid "Font color"
+msgstr ""
+
+#: admin/class-pisol-mmq-design.php:68
+msgid "Font Size"
+msgstr ""
+
+#: admin/class-pisol-mmq-design.php:70
+msgid "Font size in PX (pixels)"
+msgstr ""
+
+#: admin/class-pisol-mmq-design.php:63
+msgid "Font Weight"
+msgstr ""
+
+#: admin/class-pisol-mmq-min-amount.php:29
+msgid "In Pro version you can add more then TWO excluded product"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"It allows you to set Minimum and maximum quantity on global level, category "
+"level and on product laver, You can also set minimum amount on the global or "
+"category level"
+msgstr ""
+
+#: admin/class-pisol-mmq-option.php:61
+msgid "Just below short description"
+msgstr ""
+
+#: admin/class-pisol-mmq-design.php:65
+msgid "Lighter"
+msgstr ""
+
+#: admin/class-pisol-mmq-option.php:31
+msgid "Maximum product quantity"
+msgstr ""
+
+#: admin/class-pisol-mmq-message.php:31 admin/class-pisol-mmq-message.php:39
+msgid "Message shown when added quantity has reached maximum quantity"
+msgstr ""
+
+#: admin/class-pisol-mmq-message.php:27 admin/class-pisol-mmq-message.php:45
+msgid "Message shown when added quantity is less then minimum quantity"
+msgstr ""
+
+#: admin/class-pisol-mmq-message.php:37
+msgid "Message shown when added quantity is more then 0 but less then maximum"
+msgstr ""
+
+#: admin/class-pisol-mmq-message.php:29
+msgid ""
+"Message shown when added quantity is more then minimum quantity but less "
+"then maximum"
+msgstr ""
+
+#: admin/class-pisol-mmq-message.php:47
+msgid ""
+"Message shown when added quantity is more then minimum quantity or equal to "
+"minimum quantity"
+msgstr ""
+
+#: admin/class-pisol-mmq-option.php:57
+msgid "Min/Max message position on product archive page"
+msgstr ""
+
+#: admin/class-pisol-mmq-option.php:61
+msgid "Min/Max message position on single product page"
+msgstr ""
+
+#: admin/class-pisol-mmq-message.php:23
+msgid "Minimum & Maximum Quantity Restriction is set"
+msgstr ""
+
+#: admin/class-pisol-mmq-option.php:23
+msgid "Minimum / Maximum Quantity (Per product)"
+msgstr ""
+
+#: admin/class-pisol-mmq-option.php:35
+msgid "Minimum / Maximum quantity message box color"
+msgstr ""
+
+#: admin/class-pisol-mmq-option.php:41
+msgid ""
+"Minimum / Maximum quantity message box color when the quantity not satisfied"
+msgstr ""
+
+#: admin/class-pisol-mmq-option.php:53
+msgid "Minimum / Maximum quantity message position and visibility"
+msgstr ""
+
+#. Name of the plugin
+msgid "Minimum Maximum quantity & Minimum Order amount for WooCommerce"
+msgstr ""
+
+#: admin/class-pisol-mmq-option.php:27
+msgid "Minimum product quantity"
+msgstr ""
+
+#: admin/class-pisol-mmq-option.php:47
+msgid "Minimum quantity progress bar"
+msgstr ""
+
+#: admin/class-pisol-mmq-design.php:65
+msgid "Normal"
+msgstr ""
+
+#: admin/class-pisol-mmq-design.php:70
+msgid "Normal text font size"
+msgstr ""
+
+#: admin/class-pisol-mmq-design.php:65
+msgid "Normal text font weight"
+msgstr ""
+
+#: admin/class-pisol-mmq-message.php:33
+msgid "Only Maximum Quantity Restriction is set"
+msgstr ""
+
+#: admin/class-pisol-mmq-message.php:41
+msgid "Only Minimum Quantity Restriction is set"
+msgstr ""
+
+#. Author of the plugin
+msgid "PI Websolution"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "piwebsolution.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "piwebsolution.com/minimum-maximum-quantity-woocommerce-documentation"
+msgstr ""
+
+#: public/class-pisol-mmq-cart.php:105
+#, php-format
+msgid "Please fix the quantity error in %s products"
+msgstr ""
+
+#: pisol-mmq.php:43
+msgid ""
+"Please Install and Activate WooCommerce plugin, without that this plugin "
+"cant work"
+msgstr ""
+
+#: admin/class-pisol-mmq-design.php:51
+msgid "Positions of the notification bar"
+msgstr ""
+
+#: admin/class-pisol-mmq-option.php:51
+msgid "Progress line background color"
+msgstr ""
+
+#: admin/class-pisol-mmq-option.php:31
+msgid ""
+"Set a global maximum quantity for product,  this can be changed on product "
+"level by setting a maximum quantity over there"
+msgstr ""
+
+#: admin/class-pisol-mmq-option.php:27
+msgid ""
+"Set a global minimum quantity for product, this can be changed on product "
+"level by setting a minimum quantity over there"
+msgstr ""
+
+#: pisol-mmq.php:112
+msgid "Settings"
+msgstr ""
+
+#: admin/class-pisol-mmq-control.php:25
+msgid "Show Free shipping notification on all the pages of a website"
+msgstr ""
+
+#: admin/class-pisol-mmq-option.php:49
+msgid "Show linear progress in color for minimum quantity, for each product"
+msgstr ""
+
+#: admin/class-pisol-mmq-option.php:63
+msgid "Show Min/Max message on cart page"
+msgstr ""
+
+#: admin/class-pisol-mmq-option.php:65
+msgid "Show Min/Max message on checkout page"
+msgstr ""
+
+#: admin/class-pisol-mmq-option.php:55
+msgid "Show Min/Max message on shop / category page"
+msgstr ""
+
+#: admin/class-pisol-mmq-option.php:59
+msgid "Show Min/Max message on single product page"
+msgstr ""
+
+#: admin/class-pisol-mmq-control.php:33
+msgid "Show on cart page (is_cart)"
+msgstr ""
+
+#: admin/class-pisol-mmq-control.php:35
+msgid "Show on checkout page (is_checkout)"
+msgstr ""
+
+#: admin/class-pisol-mmq-control.php:29
+msgid "Show on front page of the site (is_front_page)"
+msgstr ""
+
+#: admin/class-pisol-mmq-control.php:39
+msgid "Show on product category page (is_product_category)"
+msgstr ""
+
+#: admin/class-pisol-mmq-control.php:41
+msgid "Show on product tag page (is_product_tag)"
+msgstr ""
+
+#: admin/class-pisol-mmq-control.php:37
+msgid "Show on shop page (is_shop)"
+msgstr ""
+
+#: admin/class-pisol-mmq-control.php:31
+msgid "Show on single product page (is_product)"
+msgstr ""
+
+#: admin/class-pisol-mmq-design.php:58
+msgid "Text color"
+msgstr ""
+
+#: admin/class-pisol-mmq-option.php:39
+msgid "Text color of message box"
+msgstr ""
+
+#: admin/class-pisol-mmq-option.php:37 admin/class-pisol-mmq-option.php:39
+msgid "This color will be used for the message box to show minimum requirement"
+msgstr ""
+
+#: admin/class-pisol-mmq-option.php:43 admin/class-pisol-mmq-option.php:45
+msgid ""
+"This color will be used when user has not purchased the required amount of "
+"product"
+msgstr ""
+
+#: admin/class-pisol-mmq-design.php:60
+msgid ""
+"This font color will be used as general color of text inside message bar"
+msgstr ""
+
+#: admin/class-pisol-mmq-design.php:65
+msgid "This is the font weight used for text in the popup"
+msgstr ""
+
+#: admin/class-pisol-mmq-option.php:57 admin/class-pisol-mmq-option.php:61
+msgid ""
+"This position are based on the WooCommerce default position, your template "
+"may implement this position differently as you have to try out this position "
+"to see which position is mapped to which location"
+msgstr ""
+
+#: admin/class-pisol-mmq-design.php:52
+msgid "Top"
+msgstr ""
+
+#: admin/class-pisol-mmq-option.php:63
+msgid ""
+"Using this you can disable or enable the min max quantity message of cart "
+"pages"
+msgstr ""
+
+#: admin/class-pisol-mmq-option.php:65
+msgid ""
+"Using this you can disable or enable the min max quantity message of "
+"checkout pages"
+msgstr ""
+
+#: admin/class-pisol-mmq-option.php:55
+msgid ""
+"Using this you can disable or enable the min max quantity message of product "
+"archive pages"
+msgstr ""
+
+#: admin/class-pisol-mmq-option.php:59
+msgid ""
+"Using this you can disable or enable the min max quantity message on single "
+"product page"
+msgstr ""
+
+#: admin/class-pisol-mmq-min-amount.php:33
+msgid ""
+"When enabled the excluded product total will be counted for min amount "
+"restriction"
+msgstr ""
+
+#: admin/class-pisol-mmq-message.php:25 admin/class-pisol-mmq-message.php:35
+#: admin/class-pisol-mmq-message.php:43
+msgid "When user just came to the site and have not purchased the product"
+msgstr ""
+
+#: admin/class-pisol-mmq-option.php:61
+msgid "Woocommerce Alert box"
+msgstr ""
+
+#: public/class-pisol-mmq-cart.php:79
+#, php-format
+msgid "You can add a maximum of %1$s %2$s's to %3$s. You already have %4$s."
+msgstr ""
+
+#: pisol-mmq.php:55
+msgid "You have the PRO version of this plugin in your site"
+msgstr ""
